@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 33a831a2a65292746a60c654ca70be96
+timeCreated: 1539666156
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Booster1
+    100002: Booster1.1
+    100004: Cap 1
+    100006: Cap 1.2
+    100008: Cap 1.3
+    100010: Cap 1.4
+    100012: Cap 1.5
+    100014: Cap 2
+    100016: Cap 2.2
+    100018: Cap 2.3
+    100020: Cap 2.4
+    100022: Cap 2.5
+    100024: Cylinder
+    100026: Cylinder.2
+    100028: Extrude NURBS
+    100030: Extrude NURBS 0
+    100032: Extrude NURBS 1
+    100034: Extrude NURBS 2
+    100036: Extrude NURBS 3
+    100038: Extrude NURBS 4
+    100040: Fins
+    100042: FInSpline
+    100044: FInSpline.2
+    100046: FInSpline.3
+    100048: FInSpline.4
+    100050: FInSpline.5
+    100052: FInSpline.6
+    100054: Null
+    100056: //RootNode
+    100058: Rounding 1
+    100060: Rounding 1.2
+    100062: Rounding 1.3
+    100064: Rounding 1.4
+    100066: Rounding 1.5
+    100068: Rounding 2
+    100070: Rounding 2.2
+    100072: Rounding 2.3
+    100074: Rounding 2.4
+    100076: Rounding 2.5
+    400000: Booster1
+    400002: Booster1.1
+    400004: Cap 1
+    400006: Cap 1.2
+    400008: Cap 1.3
+    400010: Cap 1.4
+    400012: Cap 1.5
+    400014: Cap 2
+    400016: Cap 2.2
+    400018: Cap 2.3
+    400020: Cap 2.4
+    400022: Cap 2.5
+    400024: Cylinder
+    400026: Cylinder.2
+    400028: Extrude NURBS
+    400030: Extrude NURBS 0
+    400032: Extrude NURBS 1
+    400034: Extrude NURBS 2
+    400036: Extrude NURBS 3
+    400038: Extrude NURBS 4
+    400040: Fins
+    400042: FInSpline
+    400044: FInSpline.2
+    400046: FInSpline.3
+    400048: FInSpline.4
+    400050: FInSpline.5
+    400052: FInSpline.6
+    400054: Null
+    400056: //RootNode
+    400058: Rounding 1
+    400060: Rounding 1.2
+    400062: Rounding 1.3
+    400064: Rounding 1.4
+    400066: Rounding 1.5
+    400068: Rounding 2
+    400070: Rounding 2.2
+    400072: Rounding 2.3
+    400074: Rounding 2.4
+    400076: Rounding 2.5
+    2100000: Booster
+    2100002: Rocket_Body
+    2100004: Fin
+    2100006: No Name
+    2300000: Booster1
+    2300002: Booster1.1
+    2300004: Cap 1
+    2300006: Cap 1.2
+    2300008: Cap 1.3
+    2300010: Cap 1.4
+    2300012: Cap 1.5
+    2300014: Cap 2
+    2300016: Cap 2.2
+    2300018: Cap 2.3
+    2300020: Cap 2.4
+    2300022: Cap 2.5
+    2300024: Cylinder.2
+    2300026: Extrude NURBS 0
+    2300028: Extrude NURBS 1
+    2300030: Extrude NURBS 2
+    2300032: Extrude NURBS 3
+    2300034: Extrude NURBS 4
+    2300036: Rounding 1
+    2300038: Rounding 1.2
+    2300040: Rounding 1.3
+    2300042: Rounding 1.4
+    2300044: Rounding 1.5
+    2300046: Rounding 2
+    2300048: Rounding 2.2
+    2300050: Rounding 2.3
+    2300052: Rounding 2.4
+    2300054: Rounding 2.5
+    3300000: Booster1
+    3300002: Booster1.1
+    3300004: Cap 1
+    3300006: Cap 1.2
+    3300008: Cap 1.3
+    3300010: Cap 1.4
+    3300012: Cap 1.5
+    3300014: Cap 2
+    3300016: Cap 2.2
+    3300018: Cap 2.3
+    3300020: Cap 2.4
+    3300022: Cap 2.5
+    3300024: Cylinder.2
+    3300026: Extrude NURBS 0
+    3300028: Extrude NURBS 1
+    3300030: Extrude NURBS 2
+    3300032: Extrude NURBS 3
+    3300034: Extrude NURBS 4
+    3300036: Rounding 1
+    3300038: Rounding 1.2
+    3300040: Rounding 1.3
+    3300042: Rounding 1.4
+    3300044: Rounding 1.5
+    3300046: Rounding 2
+    3300048: Rounding 2.2
+    3300050: Rounding 2.3
+    3300052: Rounding 2.4
+    3300054: Rounding 2.5
+    4300000: Booster1
+    4300002: Cylinder.2
+    4300004: Extrude NURBS 0
+    4300006: Rounding 1
+    4300008: Cap 1
+    4300010: Rounding 2
+    4300012: Cap 2
+    4300014: Extrude NURBS 1
+    4300016: Rounding 1.2
+    4300018: Cap 1.2
+    4300020: Rounding 2.2
+    4300022: Cap 2.2
+    4300024: Extrude NURBS 2
+    4300026: Rounding 1.3
+    4300028: Cap 1.3
+    4300030: Rounding 2.3
+    4300032: Cap 2.3
+    4300034: Extrude NURBS 3
+    4300036: Rounding 1.4
+    4300038: Cap 1.4
+    4300040: Rounding 2.4
+    4300042: Cap 2.4
+    4300044: Extrude NURBS 4
+    4300046: Rounding 1.5
+    4300048: Cap 1.5
+    4300050: Rounding 2.5
+    4300052: Cap 2.5
+    4300054: Booster1.1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
